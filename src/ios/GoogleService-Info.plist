@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>688976859813-n4gim6tdjtn8f8ds4ul23v5iveibojui.apps.googleusercontent.com</string>
+	<string>4574454787-lmk58c9lj3pgj89ba1t3u09jcjqqln6v.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.688976859813-n4gim6tdjtn8f8ds4ul23v5iveibojui</string>
+	<string>com.googleusercontent.apps.4574454787-lmk58c9lj3pgj89ba1t3u09jcjqqln6v</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDZYsAd1WwxGp1JS6M1Kpwf8XipoKPA9ds</string>
+	<string>AIzaSyBUjqXslS6ofIFxMZYPmqhr5KVbHorsxSM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>688976859813</string>
+	<string>4574454787</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dl.basamh</string>
+	<string>com.dl.elaf</string>
 	<key>PROJECT_ID</key>
-	<string>basamh-sdc</string>
+	<string>elaf-sdc</string>
 	<key>STORAGE_BUCKET</key>
-	<string>basamh-sdc.appspot.com</string>
+	<string>elaf-sdc.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:688976859813:ios:ae381fcd7ee4ac22</string>
+	<string>1:4574454787:ios:084b07aed268b552fe9a36</string>
 	<key>DATABASE_URL</key>
-	<string>https://basamh-sdc.firebaseio.com</string>
+	<string>https://elaf-sdc.firebaseio.com</string>
 </dict>
 </plist>
